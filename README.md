@@ -59,4 +59,4 @@ python DEVIL-IP-TRACKER.py
 
 ![Image](https://github.com/user-attachments/assets/db9f0f36-4c9c-4a5d-8b75-6965bc5699f2)
 
-![Image](https://github.com/user-attachments/assets/e218714f-a20d-4b85-8b26-b2bdab0f5599)
+![Image](https://github.com/user-attachments/assets/d3116d6c-b038-45a4-bb37-71d1fb0e0060)
