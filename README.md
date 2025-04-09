@@ -11,6 +11,8 @@ apt upgrade -y
 
 pkg install git
 
+pkg install python-pip
+
 pip install pyfiglet
 
 pip install fake_user_agent
