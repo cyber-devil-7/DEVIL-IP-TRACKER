@@ -55,8 +55,8 @@ python DEVIL-IP-TRACKER.py
 # 𝐒𝐂𝐑𝐄𝐄𝐍 𝐒𝐇𝐎𝐓𝐒
 ![Image](https://github.com/user-attachments/assets/19b4d91c-cab9-4a89-88a7-d89f7fc1eaab)
 
-![Image](https://github.com/user-attachments/assets/372eded5-d3f5-4de8-a7ca-8586d76a3e9d)
+![Image](https://github.com/user-attachments/assets/d3116d6c-b038-45a4-bb37-71d1fb0e0060)
 
 ![Image](https://github.com/user-attachments/assets/db9f0f36-4c9c-4a5d-8b75-6965bc5699f2)
 
-![Image](https://github.com/user-attachments/assets/d3116d6c-b038-45a4-bb37-71d1fb0e0060)
+# *𝐓𝐇𝐀𝐍𝐊 𝐘𝐎𝐔 𝐓𝐄𝐀𝐌 𝐂𝐘𝐁𝐄𝐑 𝐃𝐄𝐕𝐈𝐋*
