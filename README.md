@@ -52,4 +52,11 @@ python DEVIL-IP-TRACKER.py
 
 • https://t.me/+5FS644_XFGRjNDE1
 
+# 𝐒𝐂𝐑𝐄𝐄𝐍 𝐒𝐇𝐎𝐓𝐒
+![Image](https://github.com/user-attachments/assets/19b4d91c-cab9-4a89-88a7-d89f7fc1eaab)
 
+![Image](https://github.com/user-attachments/assets/372eded5-d3f5-4de8-a7ca-8586d76a3e9d)
+
+![Image](https://github.com/user-attachments/assets/db9f0f36-4c9c-4a5d-8b75-6965bc5699f2)
+
+![Image](https://github.com/user-attachments/assets/e218714f-a20d-4b85-8b26-b2bdab0f5599)
